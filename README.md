@@ -1,5 +1,9 @@
 # Project Face Standalone
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 Project Face is an AI-powered skin analysis platform with onboarding, dashboard analytics, auth, and payment flows.
 
 ## What this repository does
